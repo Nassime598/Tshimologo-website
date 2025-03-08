@@ -191,7 +191,7 @@ function App() {
                       </div>
                       <div className="flex items-center gap-2 mb-2">
                         <Mail className="w-5 h-5 text-yellow-500" />
-                        <span>info@montleschool.co.za</span>
+                        <span>info@tshimologomiddleschool.org</span>
                       </div>
                       <div className="flex items-center gap-2">
                         <Phone className="w-5 h-5 text-yellow-500" />
@@ -262,7 +262,7 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Montleschool</h3>
+              <h3 className="text-xl font-bold mb-4">Tshimologo Middle School</h3>
               <p className="text-gray-400">{t('footerDescription')}</p>
             </div>
             <div>
@@ -279,7 +279,7 @@ function App() {
               <ul className="space-y-2 text-gray-400">
                 <li>123 Education Street</li>
                 <li>Cape Town, South Africa</li>
-                <li>info@montleschool.com</li>
+                <li>info@tshimologomiddleschool.org</li>
                 <li>+27 659705600</li>
               </ul>
             </div>

@@ -6,7 +6,7 @@ interface Translations {
 
 export const translations: Translations = {
   en: {
-    welcome: "Welcome to Montleschool",
+    welcome: "Welcome to Tshimologo Middle School",
     publicSchool: "Public Middle School",
     qualityEducation: "Quality Public Education for All",
     description: "A welcoming public middle school in the heart of South Africa, providing excellent education for students ages 11-14. We believe every child deserves access to quality education, regardless of background.",
@@ -48,9 +48,9 @@ export const translations: Translations = {
     newsletter: "Newsletter",
     volunteer: "Volunteer",
     footerDescription: "A public middle school committed to providing quality education to all students in our community.",
-    copyright: "© 2024 Montleschool. All rights reserved.",
-    aboutUsTitle: "About Montleschool",
-    aboutUsDesc: "Founded with a vision of inclusive education, Montleschool has been serving our community since 1995. We provide quality education to students aged 11-14, fostering an environment where every child can thrive regardless of their background.",
+    copyright: "© 2024 Tshimologo Middle School. All rights reserved.",
+    aboutUsTitle: "About Tshimologo Middle School",
+    aboutUsDesc: "Founded with a vision of inclusive education, Tshimologo Middle School has been serving our community since 1995. We provide quality education to students aged 11-14, fostering an environment where every child can thrive regardless of their background.",
     ourMission: "Our Mission",
     missionDesc: "To provide accessible, quality education that empowers every student to reach their full potential in a supportive and inclusive environment.",
     ourValues: "Our Values",
@@ -64,7 +64,7 @@ export const translations: Translations = {
     addressCity: "Christiana",
     addressState: "Free State",
     addressPostal: "2680",
-    visitUsDesc: "We welcome you to visit our campus and see firsthand what makes Montleschool special. Our doors are always open to prospective students and their families."
+    visitUsDesc: "We welcome you to visit our campus and see firsthand what makes Tshimologo Middle School special. Our doors are always open to prospective students and their families."
   },
   af: {
     welcome: "Welkom by Montleskool",
@@ -128,7 +128,7 @@ export const translations: Translations = {
     visitUsDesc: "Ons verwelkom u om ons kampus te besoek en eerstehands te sien wat Montleskool spesiaal maak. Ons deure staan altyd oop vir voornemende studente en hul families."
   },
   zu: {
-    welcome: "Siyakwamukela eMontleschool",
+    welcome: "Siyakwamukela eTshimologo Middle School",
     publicSchool: "Isikole Sikahulumeni Samabanga Aphakathi",
     qualityEducation: "Imfundo Yomphakathi Yekhwalithi Yawo Wonke Umuntu",
     description: "Isikole esiphakathi nendawo eNingizimu Afrika, sinikeza imfundo ephambili kubafundi abaneminyaka eyi-11-14. Sikholelwa ukuthi wonke umntwana ufanele athole imfundo yekhwalithi, noma kungabe uvela kuphi.",
@@ -170,9 +170,9 @@ export const translations: Translations = {
     newsletter: "Izindaba",
     volunteer: "Ukuvolontiya",
     footerDescription: "Isikole sikahulumeni samabanga aphakathi esizibophezele ekunikezeni imfundo yekhwalithi kubo bonke abafundi emphakathini wethu.",
-    copyright: "© 2024 Montleschool. Wonke amalungelo agodliwe.",
-    aboutUsTitle: "Mayelana ne-Montleschool",
-    aboutUsDesc: "Yasungulwa ngombono wemfundo ebandakanya wonke umuntu, i-Montleschool ibe isebenzela umphakathi wethu kusukela ngo-1995. Sinikeza imfundo yekhwalithi kubafundi abaneminyaka eyi-11-14, sikhuthaza isimo lapho wonke umntwana angakhula khona ngaphandle kokubheka isimo sakhe.",
+    copyright: "© 2024 Tshimologo Middle School. Wonke amalungelo agodliwe.",
+    aboutUsTitle: "Mayelana ne-Tshimologo Middle School",
+    aboutUsDesc: "Yasungulwa ngombono wemfundo ebandakanya wonke umuntu, i-Tshimologo Middle School ibe isebenzela umphakathi wethu kusukela ngo-1995. Sinikeza imfundo yekhwalithi kubafundi abaneminyaka eyi-11-14, sikhuthaza isimo lapho wonke umntwana angakhula khona ngaphandle kokubheka isimo sakhe.",
     ourMission: "Umgomo Wethu",
     missionDesc: "Ukunikeza imfundo etholakala kalula, yekhwalithi enikeza amandla wonke umfundi ukufinyelela amandla akhe aphelele endaweni esekela futhi ibandakanye wonke umuntu.",
     ourValues: "Izimiso Zethu",
@@ -186,10 +186,10 @@ export const translations: Translations = {
     addressCity: "Christiana",
     addressState: "Free State",
     addressPostal: "2680",
-    visitUsDesc: "Siyakwamukela ukuba uvakashele ikhampasi yethu ubone ngokwakho okwenza i-Montleschool ikhetheke. Iminyango yethu ivulekile njalo kubafundi abangaba khona kanye nemindeni yabo."
+    visitUsDesc: "Siyakwamukela ukuba uvakashele ikhampasi yethu ubone ngokwakho okwenza i-Tshimologo Middle School ikhetheke. Iminyango yethu ivulekile njalo kubafundi abangaba khona kanye nemindeni yabo."
   },
   xh: {
-    welcome: "Wamkelekile kwi-Montleschool",
+    welcome: "Wamkelekile kwi-Tshimologo Middle School",
     publicSchool: "Isikolo Sikarhulumente Samabanga Aphakathi",
     qualityEducation: "Imfundo Yoluntu Esemgangathweni Kubo Bonke",
     description: "Isikolo samabanga aphakathi esiphakathi kwentliziyo yoMzantsi Afrika, sinika imfundo esemgangathweni kubafundi abakwiminyaka eli-11-14. Sikholelwa ukuba wonke umntwana ufanelekile ukufumana imfundo esemgangathweni, nokuba uphuma phi na.",
@@ -231,9 +231,9 @@ export const translations: Translations = {
     newsletter: "Iphepha-ndaba",
     volunteer: "Ukuvolontiya",
     footerDescription: "Isikolo sikarhulumente samabanga aphakathi esizinikezele ekunikezeni imfundo esemgangathweni kubo bonke abafundi kuluntu lwethu.",
-    copyright: "© 2024 Montleschool. Onke amalungelo agciniwe.",
-    aboutUsTitle: "Malunga ne-Montleschool",
-    aboutUsDesc: "Yasekwa ngombono wemfundo ebandakanya wonke umntu, i-Montleschool ibikhonza uluntu lwethu ukusukela ngo-1995. Sinika imfundo esemgangathweni kubafundi abakwiminyaka eli-11-14, sikhuthaza imeko apho wonke umntwana anokukhula khona nokuba imvelaphi yakhe ithini na.",
+    copyright: "© 2024 Tshimologo Middle School. Onke amalungelo agciniwe.",
+    aboutUsTitle: "Malunga ne-Tshimologo Middle School",
+    aboutUsDesc: "Yasekwa ngombono wemfundo ebandakanya wonke umntu, i-Tshimologo Middle School ibikhonza uluntu lwethu ukusukela ngo-1995. Sinika imfundo esemgangathweni kubafundi abakwiminyaka eli-11-14, sikhuthaza imeko apho wonke umntwana anokukhula khona nokuba imvelaphi yakhe ithini na.",
     ourMission: "Umsebenzi Wethu",
     missionDesc: "Ukunikeza imfundo efumanekayo, esemgangathweni enika amandla wonke umfundi ukufikelela kwizakhono zakhe ezipheleleyo kwimeko exhasa nebandakanya wonke umntu.",
     ourValues: "Iinqobo Zethu",
@@ -247,6 +247,6 @@ export const translations: Translations = {
     addressCity: "Christiana",
     addressState: "Free State",
     addressPostal: "2680",
-    visitUsDesc: "Siyakwamkela ukuba undwendwele ikhampasi yethu ubone ngokwakho okwenza i-Montleschool ikhetheke. Iingcango zethu zihlala zivulekile kubafundi abanokuba khona neentsapho zabo."
+    visitUsDesc: "Siyakwamkela ukuba undwendwele ikhampasi yethu ubone ngokwakho okwenza i-Tshimologo Middle School ikhetheke. Iingcango zethu zihlala zivulekile kubafundi abanokuba khona neentsapho zabo."
   }
 };
