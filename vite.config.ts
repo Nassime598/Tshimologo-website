@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Tshimologo-website/', // Set this to your repository name
+  base: '/', // Set this to your repository name
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
