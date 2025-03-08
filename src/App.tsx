@@ -245,7 +245,7 @@ function App() {
             </div>
             <div className="aspect-video">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.727989694411!2d25.156641315674337!3d-28.070995982649946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e9a38936741313f%3A0x431fdf643c526e9!2sMontle%20Primary%20School!5e0!3m2!1sen!2sza!4v1646305283123!5m2!1sen!2sza"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1815353.9103068374!2d21.601082643053306!3d-27.293994324290626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e9efe51fcb2ae85%3A0x7641102db2bd84ce!2sTshimologo%20Middle%20School!5e0!3m2!1sen!2sma!4v1741441771253!5m2!1sen!2sma"
                 className="w-full h-full rounded-lg shadow-lg"
                 style={{ border: 0 }}
                 allowFullScreen
