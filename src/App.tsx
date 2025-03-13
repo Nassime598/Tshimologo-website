@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { BookOpen, Users, Trophy, Calendar, ArrowRight, GraduationCap, Globe2, Heart, Sparkles, Music, Palette, Code, Coins, DoorOpen, HandHeart, MapPin, Mail, Phone } from 'lucide-react';
 import { useLanguage } from './LanguageContext';
 import { LanguageSwitcher } from './LanguageSwitcher';
+import image2 from './assets/image2.png'
 
 function App() {
   const { t } = useLanguage();
@@ -15,7 +16,7 @@ function App() {
       <div 
         className="relative h-[600px] bg-cover bg-center"
         style={{
-          backgroundImage: 'url("/images/image2.png")'
+          backgroundImage: `url(${image2})`
       }}
       >
         <div className="absolute inset-0 bg-black/50">
