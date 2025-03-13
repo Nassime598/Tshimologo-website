@@ -67,7 +67,7 @@ export const translations: Translations = {
     visitUsDesc: "We welcome you to visit our campus and see firsthand what makes Tshimologo Middle School special. Our doors are always open to prospective students and their families."
   },
   af: {
-    welcome: "Welkom by Montleskool",
+    welcome: "Welkom by Tshimologo Middle Sckool",
     publicSchool: "Openbare Middelskool",
     qualityEducation: "Kwaliteit Openbare Onderwys vir Almal",
     description: "ʼn Verwelkomende openbare middelskool in die hart van Suid-Afrika, wat uitstekende onderwys bied vir leerders van 11-14 jaar. Ons glo elke kind verdien toegang tot gehalte-onderwys, ongeag agtergrond.",
@@ -109,9 +109,9 @@ export const translations: Translations = {
     newsletter: "Nuusbrief",
     volunteer: "Vrywilliger",
     footerDescription: "'n Openbare middelskool wat toegewy is aan die verskaffing van gehalte-onderwys aan alle studente in ons gemeenskap.",
-    copyright: "© 2024 Montleskool. Alle regte voorbehou.",
-    aboutUsTitle: "Oor Montleskool",
-    aboutUsDesc: "Gestig met 'n visie van inklusiewe onderwys, dien Montleskool ons gemeenskap sedert 1995. Ons bied gehalte-onderwys aan leerders van 11-14 jaar, en skep 'n omgewing waar elke kind kan floreer, ongeag hul agtergrond.",
+    copyright: "© 2024 Tshimologo Middle Sckool. Alle regte voorbehou.",
+    aboutUsTitle: "Oor Tshimologo Middle Sckool",
+    aboutUsDesc: "Gestig met 'n visie van inklusiewe onderwys, dien Tshimologo Middle Sckool ons gemeenskap sedert 1995. Ons bied gehalte-onderwys aan leerders van 11-14 jaar, en skep 'n omgewing waar elke kind kan floreer, ongeag hul agtergrond.",
     ourMission: "Ons Missie",
     missionDesc: "Om toeganklike, gehalte-onderwys te verskaf wat elke student bemagtig om hul volle potensiaal te bereik in 'n ondersteunende en inklusiewe omgewing.",
     ourValues: "Ons Waardes",
@@ -125,7 +125,7 @@ export const translations: Translations = {
     addressCity: "Christiana",
     addressState: "Vrystaat",
     addressPostal: "2680",
-    visitUsDesc: "Ons verwelkom u om ons kampus te besoek en eerstehands te sien wat Montleskool spesiaal maak. Ons deure staan altyd oop vir voornemende studente en hul families."
+    visitUsDesc: "Ons verwelkom u om ons kampus te besoek en eerstehands te sien wat Tshimologo Middle Sckool spesiaal maak. Ons deure staan altyd oop vir voornemende studente en hul families."
   },
   zu: {
     welcome: "Siyakwamukela eTshimologo Middle School",
